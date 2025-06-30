@@ -11,20 +11,20 @@ A structured CSV file used is <a href="https://github.com/rutujaparab20/PRODIGY_
 
 ## Technologies Used
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 ## Key Steps Taken
 
-Handled null values
-Removed duplicate entries
-Normalized data
-Visualized distribution and correlation
-Encoded categorical values (if any)
+- Handled null values
+- Removed duplicate entries
+- Normalized data
+- Visualized distribution and correlation
+- Encoded categorical values (if any)
 
 ## Conclusion
 
