@@ -3,13 +3,13 @@
 <br>
 <img src="https://github.com/rutujaparab20/PRODIGY_DS_2./blob/main/ds_task_2.png">
 
-##📌 Objective
+## Objective
 In this task, I performed data preprocessing techniques which are crucial before applying any machine learning algorithms. This includes handling missing values, encoding, normalization, and cleaning the dataset to make it suitable for analysis or modeling.
 
-##📂 Dataset 
-A structured CSV file used is <a href="https://github.com/rutujaparab20/PRODIGY_DS_2./blob/main/test.csv"> to demonstrate essential data preprocessing steps like handling missing values, normalization, and encoding.
+## Dataset 
+A structured CSV file used is <a href="https://github.com/rutujaparab20/PRODIGY_DS_2./blob/main/test.csv">to demonstrate essential data preprocessing steps like handling missing values, normalization, and encoding.
 
-##🛠️ Technologies Used
+## Technologies Used
 
 Python
 Pandas
@@ -18,7 +18,7 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
-##📊 Key Steps Taken
+## Key Steps Taken
 
 Handled null values
 Removed duplicate entries
