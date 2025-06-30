@@ -7,7 +7,7 @@
 In this task, I performed data preprocessing techniques which are crucial before applying any machine learning algorithms. This includes handling missing values, encoding, normalization, and cleaning the dataset to make it suitable for analysis or modeling.
 
 ## Dataset 
-A structured CSV file is used <a href="https://github.com/rutujaparab20/PRODIGY_DS_2./blob/main/test.csv"></a> to demonstrate essential data preprocessing steps like handling missing values, normalization, and encoding.
+A structured CSV file is used <a href="https://github.com/rutujaparab20/PRODIGY_DS_2./blob/main/test.csv">test </a> to demonstrate essential data preprocessing steps like handling missing values, normalization, and encoding.
 
 
 ## Technologies Used
